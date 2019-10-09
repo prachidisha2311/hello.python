@@ -5,4 +5,4 @@ print("a is greater than b")
 else:
 print("b is greater than a")
 else:
-print("a is lesser thsn b")
+print("a is lesser thsn b");
